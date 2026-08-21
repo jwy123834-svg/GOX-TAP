@@ -1,5 +1,5 @@
 {
-  "app_status": "DISABLED",
+  "app_status": "MAINTENANCE",
   "disabled_message": "⚠️ تم إيقاف عمل هذه النسخة من قبل المطور GOX GSM.\nللتجديد أو التفعيل برجاء التواصل مع الدعم الفني: +01066607453",
   "announcement": "🔥 مرحباً بكم في أداة GOX GSM EDL Tool v2.0 Pro! تابعوا التحديثات الحصرية أولاً بأول.",
   "latest_version": "2.0",
@@ -7,5 +7,5 @@
   "update_url": "",
   "update_changelog": "إصلاحات أمنية وتحسينات للأداء",
   "banned_hwids": [],
-  "last_updated": "2026-08-21T02:04:12.755Z"
+  "last_updated": "2026-08-21T02:07:16.923Z"
 }
