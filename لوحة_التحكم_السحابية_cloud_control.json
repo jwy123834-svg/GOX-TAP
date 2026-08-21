@@ -7,8 +7,8 @@
   "banned_hwids": [
     "GOX-XXXX-XXXX-XXXX-XXXX"
   ],
-  "latest_version": "2.1",
-  "min_required_version": "2.1",
+  "latest_version": "2.0",
+  "min_required_version": "2.0",
   "update_url": "https://update.active-eftdongle.com/update115.7z",
   "update_changelog": "1. إضافة دعم موديلات جديدة لتابلت سامسونج\n2. تحسين سرعة الفورمات والتفليش بنسبة 50%\n3. إصلاحات واستقرار عام للأداة",
   "announcement": "🔥 مرحباً بكم في أداة GOX GSM EDL Tool v2.0 Pro! تابعوا التحديثات الحصرية أولاً بأول."
