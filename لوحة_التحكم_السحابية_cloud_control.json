@@ -2,10 +2,10 @@
   "app_status": "ACTIVE",
   "disabled_message": "⚠️ يتم عمل تحديثات امان سوف يتم نزول تحديث قريبا",
   "announcement": "🔥 مرحباً بكم في أداة GOX GSM Pro - السيرفر السحابي متصل بنجاح!",
-  "latest_version": "2.3",
-  "min_required_version": "2.3",
+  "latest_version": "2.0",
+  "min_required_version": "2.0",
   "update_url": "https://update.active-eftdongle.com/update115.7z",
   "update_changelog": "• إصلاح مشكلة قفل الأداة وتحسين الاستجابة الفورية للسيرفر\n• تحسين استقرار الاتصال بقاعدة بيانات Supabase\n• إضافة دعم تفليش موديلات Samsung Galaxy Tab جديدة 2026\n• تسريع بروتوكول قراءة البارتشنات في وضع EDL بنسبة 40%",
   "banned_hwids": [],
-  "last_updated": "2026-08-22T21:57:04.207Z"
+  "last_updated": "2026-08-22T22:05:14.782Z"
 }
