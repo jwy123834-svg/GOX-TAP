@@ -7,5 +7,5 @@
   "update_url": "https://update.active-eftdongle.com/update115.7z",
   "update_changelog": "• إصلاح مشكلة قفل الأداة وتحسين الاستجابة الفورية للسيرفر\n• تحسين استقرار الاتصال بقاعدة بيانات Supabase\n• إضافة دعم تفليش موديلات Samsung Galaxy Tab جديدة 2026\n• تسريع بروتوكول قراءة البارتشنات في وضع EDL بنسبة 40%",
   "banned_hwids": [],
-  "last_updated": "2026-08-22T21:56:36.295Z"
+  "last_updated": "2026-08-22T21:57:04.207Z"
 }
