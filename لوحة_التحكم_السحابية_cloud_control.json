@@ -1,11 +1,11 @@
 {
-  "app_status": "ACTIVE",
+  "app_status": "MAINTENANCE",
   "disabled_message": "⚠️ يتم عمل تحديثات امان سوف يتم نزول تحديث قريبا",
   "announcement": "🔥 مرحباً بكم في أداة GOX GSM Pro - السيرفر السحابي متصل بنجاح!",
-  "latest_version": "2.0",
-  "min_required_version": "2.0",
+  "latest_version": "2.1",
+  "min_required_version": "2.1",
   "update_url": "https://download1526.mediafire.com/rihc9nf1t6ogDBUjkoFp7kC1vmM5vPNixdJgDUrq-KUS43OPxz-u3xlk-oeOtlCluW1dXI2pvvh9ZCrtmFz-32zUDQ4QwtW_9ZbrcRaRojozs069p0mzEVaC2OtQUp_yDXORL47e1ltTGiHtCizEjUyIvoYJWvrttC_YKZdGp-wjDWI/90ya83vojeyp5po/New+Text+Document+%2820%29.txt",
-  "update_changelog": "• إصلاح مشكلة قفل الأداة وتحسين الاستجابة الفورية للسيرفر\n• تحسين استقرار الاتصال بقاعدة بيانات Supabase\n• إضافة دعم تفليش موديلات Samsung Galaxy Tab جديدة 2026\n• تسريع بروتوكول قراءة البارتشنات في وضع EDL بنسبة 40%",
+  "update_changelog": "• إصلاح مشكلة قفل الأداة وتحسين الاستجابة الفورية للسيرفر\n• تحسين استقرار الاتصال بقاعدة بيانات Supabase\n• إضافة دعم تفليش موديلات Samsung Galaxy Tab جديدة 2026\n• تسريع بروتوكول قراءة البارتشنات في وضع EDL بنسبة 40%\n• إضافة دعم تفليش موديلات Samsung Galaxy Tab جديدة 2026\n• تسريع بروتوكول قراءة البارتشنات في وضع EDL بنسبة 40%\n• إصلاح مشكلة قفل الأداة وتحسين الاستجابة الفورية للسيرفر\n• تحسين استقرار الاتصال بقاعدة بيانات Supabase",
   "banned_hwids": [],
-  "last_updated": "2026-09-06T19:00:13.546Z"
+  "last_updated": "2026-09-06T19:41:42.595Z"
 }
